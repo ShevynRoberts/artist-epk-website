@@ -25,7 +25,8 @@ export default function Gallery() {
             subtitle="High-resolution imagery available for booking, press, and award submissions."
           />
           <a
-            href="/press-kit.zip"
+            href="/EPK%20updated%202.pdf"
+            download
             className="inline-flex items-center gap-2 rounded-full border border-white/30 px-5 py-3 text-xs font-semibold uppercase tracking-[0.2em] text-white hover:border-white hover:bg-white/5"
           >
             Download Press Kit

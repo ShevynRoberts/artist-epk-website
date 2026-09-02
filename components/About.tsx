@@ -41,6 +41,16 @@ export default function About() {
                 {BIO.full.map((p, i) => (
                   <p key={i}>{p}</p>
                 ))}
+
+                {BIO.socialIntro && <p className="mt-2">{BIO.socialIntro}</p>}
+
+                {BIO.social && BIO.social.length > 0 && (
+                  <ul className="mt-2 list-disc pl-6 text-base leading-relaxed text-muted md:text-[17px]">
+                    {BIO.social.map((s, i) => (
+                      <li key={i}>{s}</li>
+                    ))}
+                  </ul>
+                )}
               </div>
             </div>
           </div>
