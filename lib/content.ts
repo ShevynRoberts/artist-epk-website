@@ -23,12 +23,22 @@ export const STREAMING = {
     "https://embed.music.apple.com/us/album/bye-bye/1882879735?i=1882879736",
 };
 export const BIO = {
-  short: "Shevyn Roberts is an Award Winning Recording Artist from Houston, Texas. Known for her dynamic stage presence and powerful storytelling, Shevyn delivers emotionally engaging performances that connect deeply with audiences.",
+  short:
+    "Shevyn Roberts is an award-winning recording artist from Houston, Texas, whose artistry refuses to fit into just one box. A dynamic performer, storyteller, and multidimensional artist, Shevyn blends the energy of pop, the spirit of Texas country-pop, and the authenticity of music inspired by her faith — creating a sound and identity that are uniquely her own.",
   full: [
-    "Shevyn Roberts is an Award Winning Recording Artist known for her commanding stage presence and deep audience connection.",
-    "She gained national attention with storytelling-driven music that blends authenticity with commercial appeal.",
-    "She has shared stages with globally recognized artists including Justin Bieber and performed at large-scale events, delivering high-energy and emotionally compelling performances.",
-    "Rooted in country music, her sound reflects authentic Texas storytelling with a modern edge.",
+    "With a deep-rooted faith in God and strong Christian roots, Shevyn embraces every part of who she is as an artist and as a person. Her music reflects her journey, her experiences, her Texas upbringing, and the things she believes in. Whether she’s delivering high-energy pop, exploring the sounds of country-pop, or creating music inspired by her faith, Shevyn brings the same authenticity, emotion, and passion to everything she does. Her artistry is multidimensional, but at the heart of it all is simply Shevyn — genuine, fearless, and unapologetically herself.",
+    "Her journey as a performer began at a young age in the dance studio, where she developed the commanding stage presence that would become one of her trademarks. A six-time national solo champion, Shevyn went on to perform on major stages and share the stage with globally recognized artists, including Justin Bieber. Her career has earned her numerous accolades, including recognition by Music Connection Magazine as one of the “100 Unsigned Artists of the Year.” She was also named the official winner of Best Pop Song at the Hollywood Independent Music Awards and was recently nominated for EP of the Year and Best Music Video of the Year at the Josie Music Awards in Nashville.",
+    "Shevyn is also expanding her creative career beyond music. She has recently been cast in lead starring roles in several upcoming film projects, details of which remain confidential due to production agreements and NDAs. Her screen work adds another dimension to an already multifaceted career as an artist and entertainer.",
+    "Today, Shevyn is continuing to release new music and build an ever-growing audience across social platforms, with a combined following of approximately 250,000+ fans and counting. She remains focused on creating music that feels honest, meaningful, and alive — music that can make you dance, make you think, make you believe, or simply make you feel something. Her music is available to stream on all major digital music platforms worldwide.",
+  ],
+  socialIntro:
+    "For the latest updates on Shevyn, follow her on social media:",
+  social: [
+    "Instagram: @Shevynroberts",
+    "TikTok: @Shevynpophits",
+    "Facebook: Shevyn Roberts",
+    "Facebook Music Page: Shevyn Roberts Music",
+    "YouTube: @therealshevyn",
   ],
 };
 
