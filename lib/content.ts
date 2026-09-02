@@ -24,12 +24,12 @@ export const STREAMING = {
 };
 export const BIO = {
   short:
-    "Shevyn Roberts is an award-winning recording artist from Houston, Texas, whose artistry refuses to fit into just one box. A dynamic performer, storyteller, and multidimensional artist, Shevyn blends the energy of pop, the spirit of Texas country-pop, and the authenticity of music inspired by her faith — creating a sound and identity that are uniquely her own.",
+    "Shevyn Roberts is an award-winning recording artist from Houston, Texas, whose artistry refuses to fit into just one box. A dynamic performer, storyteller, and multidimensional artist, Shevyn[...]",
   full: [
-    "With a deep-rooted faith in God and strong Christian roots, Shevyn embraces every part of who she is as an artist and as a person. Her music reflects her journey, her experiences, her Texas upbringing, and the things she believes in. Whether she’s delivering high-energy pop, exploring the sounds of country-pop, or creating music inspired by her faith, Shevyn brings the same authenticity, emotion, and passion to everything she does. Her artistry is multidimensional, but at the heart of it all is simply Shevyn — genuine, fearless, and unapologetically herself.",
-    "Her journey as a performer began at a young age in the dance studio, where she developed the commanding stage presence that would become one of her trademarks. A six-time national solo champion, Shevyn went on to perform on major stages and share the stage with globally recognized artists, including Justin Bieber. Her career has earned her numerous accolades, including recognition by Music Connection Magazine as one of the “100 Unsigned Artists of the Year.” She was also named the official winner of Best Pop Song at the Hollywood Independent Music Awards and was recently nominated for EP of the Year and Best Music Video of the Year at the Josie Music Awards in Nashville.",
-    "Shevyn is also expanding her creative career beyond music. She has recently been cast in lead starring roles in several upcoming film projects, details of which remain confidential due to production agreements and NDAs. Her screen work adds another dimension to an already multifaceted career as an artist and entertainer.",
-    "Today, Shevyn is continuing to release new music and build an ever-growing audience across social platforms, with a combined following of approximately 250,000+ fans and counting. She remains focused on creating music that feels honest, meaningful, and alive — music that can make you dance, make you think, make you believe, or simply make you feel something. Her music is available to stream on all major digital music platforms worldwide.",
+    "With a deep-rooted faith in God and strong Christian roots, Shevyn embraces every part of who she is as an artist and as a person. Her music reflects her journey, her experiences, her Texas u[...]",
+    "Her journey as a performer began at a young age in the dance studio, where she developed the commanding stage presence that would become one of her trademarks. A six-time national solo champi[...]",
+    "Shevyn is also expanding her creative career beyond music. She has recently been cast in lead starring roles in several upcoming film projects, details of which remain confidential due to pro[...]",
+    "Today, Shevyn is continuing to release new music and build an ever-growing audience across social platforms, with a combined following of approximately 250,000+ fans and counting. She remains[...]",
   ],
   socialIntro:
     "For the latest updates on Shevyn, follow her on social media:",
@@ -85,7 +85,7 @@ export const AWARDS = [
   },
   {
     title: "Music Connection Magazine",
-    detail: "Hot 100 Unsigned Artists & Bands",
+    detail: "Listed in Music Connection Magazine's Hot 100 Unsigned Artists of the Year",
   },
   {
     title: "Major Stage Performances",
